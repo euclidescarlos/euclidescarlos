@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">💻 Euclides Neto</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-end | Python | Web Dev</h3>
+<h3 align="center">Análise e Desenvolvimento de Sistemas | Back-end | Python | Web Dev</h3>
 
 ---
 
