@@ -1,22 +1,22 @@
-<!-- ANIMAÇÃO DE TEXTO -->
+<!-- TYPING ANIMATION -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+Neto+%F0%9F%91%8B;Desenvolvedor+em+forma%C3%A7%C3%A3o;ADS+%7C+Back-end+%7C+Machine+Learning;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Neto+%F0%9F%91%8B;Software+Developer+in+Progress;ADS+%7C+Back-end+%7C+Machine+Learning;Always+learning+something+new+%F0%9F%9A%80" />
 </p>
 
 <h1 align="center">💻 Euclides Neto</h1>
-<h3 align="center">Análise e Desenvolvimento de Sistemas | Back-end | Python | Web Dev</h3>
+<h3 align="center">Systems Analysis and Development | Back-end | Python | Web Development</h3>
 
 ---
 
-## 🧠 Sobre mim
-🎓 Graduado em Análise e Desenvolvimento de Sistemas  
-🚀 Focado em desenvolvimento de software, machine learning e aplicações web  
-📚 Experiência com projetos acadêmicos envolvendo Python, JavaScript e arquitetura de sistemas  
-💡 Sempre buscando evoluir tecnicamente e construir soluções reais
+## 🧠 About Me
+🎓 Graduate in Systems Analysis and Development  
+🚀 Focused on software development, machine learning, and web applications  
+📚 Academic project experience involving Python, JavaScript, and computer architecture  
+💡 Constantly improving my technical skills and building real-world solutions
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 🛠️ Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,html,css,java,kotlin,git,github,vscode,figma" />
@@ -24,37 +24,37 @@
 
 ---
 
-## 💻 Projetos em Destaque
+## 💻 Featured Projects
 
-### 🤖 Sistema de Reconhecimento Facial com DLIB
-Projeto de Machine Learning em Python utilizando DLIB para reconhecimento facial.
+### 🤖 Facial Recognition System with DLIB
+Machine Learning project in Python using DLIB for facial recognition.
 
 🔗 https://github.com/euclidescarlos/PROJETO-MACHINE-LEARNING-DLIB
 
 ---
 
 ### 🍷 Wine Wine App – Front-end
-Interface construída do zero para aplicativo de entrega de vinhos desenvolvido na faculdade.
+Frontend built from scratch for a wine delivery application developed during college.
 
 🔗 https://github.com/euclidescarlos/WineWineApp
 
 ---
 
-### 📊 Looger – Monitor de Processos em Python
-Software que coleta dados de desempenho de aplicativos e gera logs em tempo real no terminal.
+### 📊 Looger – Python Process Monitor
+Software that collects performance data from running applications and logs information in real-time via terminal.
 
 🔗 https://github.com/euclidescarlos/Looger
 
 ---
 
-## 🚀 Atualmente estudando
-- GenAI & Dados - Bootcamp Bradesco
-- Machine Learning com Python
-- Desenvolvimento Web
+## 🚀 Currently Studying
+- GenAI & Data – Bradesco Bootcamp
+- Machine Learning with Python
+- Web Development
 
 ---
 
-## 📫 Vamos nos conectar
+## 📫 Let's Connect
 
 <p>
 <a href="https://www.linkedin.com/in/euclides-carlos-neto/" target="_blank">
