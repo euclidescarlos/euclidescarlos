@@ -47,15 +47,6 @@ Software que coleta dados de desempenho de aplicativos e gera logs em tempo real
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=euclidescarlos&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euclidescarlos&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🚀 Atualmente estudando
 - GenAI & Dados - Bootcamp Bradesco
 - Machine Learning com Python
