@@ -48,7 +48,7 @@ Software that collects performance data from running applications and logs infor
 ---
 
 ## 🚀 Currently Studying
-- GenAI & Data – Bradesco Bootcamp
+- [GenAI & Data – Bradesco Bootcamp](https://www.dio.me/bootcamp/bradesco-genai-dados)
 - Machine Learning with Python
 - Web Development
 
